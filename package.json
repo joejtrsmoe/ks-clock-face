@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "author": "Pebble Technology",
+  "version": "1",
+  "author": "john ward",
   "private": true,
   "dependencies": {},
   "keywords": [
@@ -17,7 +17,7 @@
       "dummy": 0
     },
     "enableMultiJS": false,
-    "displayName": "KS Original",
+    "displayName": "john",
     "watchapp": {
       "onlyShownOnCommunication": false,
       "hiddenApp": false,
@@ -32,5 +32,5 @@
     ],
     "capabilities": []
   },
-  "name": "KS Original"
+  "name": "john"
 }
